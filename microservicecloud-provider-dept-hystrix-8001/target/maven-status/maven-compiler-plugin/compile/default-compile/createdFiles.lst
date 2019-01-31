@@ -1,0 +1,5 @@
+com/quhao/study/controller/DeptController.class
+com/quhao/study/dao/DeptDao.class
+com/quhao/study/DeptProvider8001_App.class
+com/quhao/study/service/DeptService.class
+com/quhao/study/service/impl/DeptServiceImpl.class

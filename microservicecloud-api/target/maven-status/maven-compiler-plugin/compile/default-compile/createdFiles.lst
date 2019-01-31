@@ -1,0 +1,4 @@
+com/quhao/study/service/DeptClientServiceFeign.class
+com/quhao/study/service/DeptClientServiceFallback.class
+com/quhao/study/service/DeptClientServiceFallback$1.class
+com/quhao/study/entity/Dept.class

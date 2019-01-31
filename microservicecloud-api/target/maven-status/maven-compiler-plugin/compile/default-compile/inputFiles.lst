@@ -1,0 +1,3 @@
+/home/stephen/idea-workspace/microservicecloud/microservicecloud-api/src/main/java/com/quhao/study/entity/Dept.java
+/home/stephen/idea-workspace/microservicecloud/microservicecloud-api/src/main/java/com/quhao/study/service/DeptClientServiceFeign.java
+/home/stephen/idea-workspace/microservicecloud/microservicecloud-api/src/main/java/com/quhao/study/service/DeptClientServiceFallback.java

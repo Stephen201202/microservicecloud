@@ -1,0 +1,5 @@
+/home/stephen/idea-workspace/microservicecloud/microservicecloud-provider-dept-hystrix-8001/src/main/java/com/quhao/study/controller/DeptController.java
+/home/stephen/idea-workspace/microservicecloud/microservicecloud-provider-dept-hystrix-8001/src/main/java/com/quhao/study/dao/DeptDao.java
+/home/stephen/idea-workspace/microservicecloud/microservicecloud-provider-dept-hystrix-8001/src/main/java/com/quhao/study/service/DeptService.java
+/home/stephen/idea-workspace/microservicecloud/microservicecloud-provider-dept-hystrix-8001/src/main/java/com/quhao/study/service/impl/DeptServiceImpl.java
+/home/stephen/idea-workspace/microservicecloud/microservicecloud-provider-dept-hystrix-8001/src/main/java/com/quhao/study/DeptProvider8001_App.java
