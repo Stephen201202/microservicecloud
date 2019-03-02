@@ -11,7 +11,7 @@ import org.springframework.context.annotation.Configuration;
  * @create: 2019-01-04 13:05
  **/
 @Configuration
-public class MyRuleConfig {
+public class  MyRuleConfig {
     @Bean
     public IRule mySelfRule() {
 //        return new MyRule();
