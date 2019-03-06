@@ -13,3 +13,12 @@ eureka:
   instance:  # 修改服务名称
     instance-id: gateway-9527.com  # 自定义服务名称信息
     prefer-ip-address: true  # 访问路径可以显示IP地址
+
+#  原访问：http://myzuul.com:9527/microservicecloud-dept/dept/get/2
+#  现访问：http://myzuul.com:9527/quhao/dept/get/1
+#  避免微服务名直接暴露
+zuul:
+  routes:
+    my.serviceId: microservicecloud-dept
+    my.path: /quhao/**
+  ignored-services: "*"  # 隐藏微服务名
